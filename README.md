@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YourHarbour
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning bachelor of Advanced Computing
