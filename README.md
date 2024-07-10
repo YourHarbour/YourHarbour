@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @YourHarbour
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning bachelor of Advanced Computing
+- 🌱 I’m currently learning MSc Health Data Science in University of Manchester
