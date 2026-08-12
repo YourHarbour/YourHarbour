@@ -1,2 +1,2 @@
-	•	Hi, I’m @YourHarbour Harbour Zhang
-	•	PhD student in Computer Science @ KCL · MSc Health Data Science (Distinction) @ Manchester · BAdvComp (Hons I) @ USYD
+- Hi, I’m @YourHarbour Harbour Zhang
+- PhD student in Computer Science @ KCL · MSc Health Data Science (Distinction) @ Manchester · BAdvComp (Hons I) @ USYD
